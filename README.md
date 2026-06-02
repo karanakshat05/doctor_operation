@@ -12,30 +12,34 @@ When a doctor becomes unavailable:
 The objective of this demo is to show how automation can identify operational issues, estimate impact, and recommend actions before patients are affected.
 
 
-# Healthcare Operations Automation Demo
+# Healthcare Operations Copilot - Tech Stack
 
-## Objective
+## Frontend
 
-Demonstrate how operational workflows around doctor availability can be automated using structured data and simple business rules.
+- Streamlit
+- Plotly
 
-## Tech Stack
+## Backend
 
-### Frontend
+- Python 3.12
 
-* Streamlit
+## Data Layer
 
-### Backend
+- CSV Files
+- Pandas
 
-* Python
+## AI Layer
 
-### Data Processing
+- OpenAI API (Optional)
 
-* Pandas
+## Future Stack
 
-### AI Layer (Optional)
-
-* OpenAI API for summaries and recommendations
-
+- Next.js
+- Supabase
+- PostgreSQL
+- n8n
+- OpenAI
+  
 ### Storage
 
 * CSV files (for demo)
